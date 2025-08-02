@@ -32,7 +32,7 @@ sudo apt install -y $(cat requirements.txt)
 
 ### Quick Setup
 ```bash
-git clone https://github.com/JYbhavsar12/mahabharata.git
+git clone https://github.com/Jybhavsar12/mahabharata.git
 cd mahabharata
 chmod +x mahabharata.sh modules/*.sh
 sudo ./mahabharata.sh
