@@ -1,0 +1,9 @@
+
+nmap
+tcpdump
+net-tools
+openssh-client
+john
+rkhunter
+wpscan
+
